@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Fries
 Burger
 Carbonara
+=======
+Money Heist
+Stranger Things
+Queen of Tears
+>>>>>>> movies
